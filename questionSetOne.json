@@ -1,0 +1,81 @@
+{
+  "questions":[
+    {
+      "type": "multiple-choice",
+      "imageUrl": "",
+     "description": "What will be printed as a result of executing the code segment?",
+     "choice-1": " 0 3 2 1 0 0 3 ",
+     "choice-2": " 0 0 3 2 2 1 ",
+     "choice-3": " 0 3 2 1 0 0",
+     "choice-4": " 0 0 3 2 2 1 0",
+     "answer": 4
+    }
+    {
+     "type":"true_false_question",
+     "imageUrl": "",
+     "description":"True or false: The method returns true if st is a palindrone(spelled backwards and forewards), false if it is not",
+     "answer": true
+    }
+    {
+      "type":"multiple_choice_question"
+      "imageUrl": "",
+     "description": "What will be printed when printStars(15) is called?",
+     "choice 1": "***************",
+     "choice 2": "*",
+     "choice 3": "Nothing is printed. Method will not compile. Recursive methods cannot print",
+     "choice 4": "Many stars are printed. Infinite recursion causes a stack overflow error",
+     "answer": 1
+    }
+    {
+      "type": "text_input_question",
+     "description": "What is returned by the call mixItUp(AS, CS)",
+     "answer": "APAPAP"
+    }
+    {
+      "type":"true_false",
+      "imageUrl": "",
+      "description": "True or False: Mystery returns all three values a,b, and c",
+      "answer": false
+    }
+    {
+      "type" :"text_input",
+      "imageUrl": "",
+      "description": "What is the printed output of this code?",
+      "answer":"HomeHello"
+    }
+    {
+      "type":"true_false",
+      "imageUrl": "",
+      "description": "True or False: This code has an index out of bounds exception",
+      "answer": false
+    }
+    {
+      "type":"text_input"
+      "imageUrl": "",
+      "description": "What is the printed output of this code?",
+      "answer": 46
+    }
+    {
+      "type: multiple_choice"
+      "imageUrl":"",
+      "description" : "Which code segment removes all Stringobjects starting with a letter from the second half of the alphabet from the arrayList?"
+      "choice-1":"I only",
+      "choice-2":"I and II only",
+      "choice-3":"II and III only",
+      "choice-4":"I,II, and III",
+      "answer":3
+    }
+    {
+      "type":"multiple_choice-dual_images"
+      "imageUrlOne":"",
+      "imageUrlTwo":"",
+
+      "choice-1":30,
+      "choice-2":15,
+      "choice-3":7,
+      "choice-4":7.5,
+      "answer": 3
+    }
+
+  ]
+}
