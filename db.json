@@ -1,6 +1,7 @@
 {
   "questions":[
     {
+      "id": 1,
       "type": "multiple-choice",
       "imageUrl": "",
      "description": "What will be printed as a result of executing the code segment?",
@@ -11,12 +12,14 @@
      "answer": 4
    },
     {
+      "id": 2,
      "type":"true_false_question",
      "imageUrl": "",
      "description":"True or false: The method returns true if st is a palindrone(spelled backwards and forewards), false if it is not",
      "answer": true
    },
     {
+      "id": 3,
       "type":"multiple_choice_question",
       "imageUrl": "",
      "description": "What will be printed when printStars(15) is called?",
@@ -27,36 +30,42 @@
      "answer": 1
    },
     {
+      "id": 4,
       "type": "text_input_question",
       "imageUrl": "",
      "description": "What is returned by the call mixItUp(AS, CS)",
      "answer": "APAPAP"
    },
     {
+      "id": 5,
       "type":"true_false",
       "imageUrl": "",
       "description": "True or False: Mystery returns all three values a,b, and c",
       "answer": false
     },
     {
+      "id": 6,
       "type" :"text_input",
       "imageUrl": "",
       "description": "What is the printed output of this code?",
       "answer":"HomeHello"
     },
     {
+      "id": 7,
       "type":"true_false",
       "imageUrl": "",
       "description": "True or False: This code has an index out of bounds exception",
       "answer": false
     },
     {
+      "id": 8,
       "type":"text_input",
       "imageUrl": "",
       "description": "What is the printed output of this code?",
       "answer": 46
     },
     {
+      "id": 9,
       "type":"multiple_choice",
       "imageUrl":"",
       "description" : "Which code segment removes all Stringobjects starting with a letter from the second half of the alphabet from the arrayList?",
@@ -67,6 +76,7 @@
       "answer":3
     },
     {
+      "id": 10,
       "type":"multiple_choice-dual_images",
       "imageUrlOne":"",
       "imageUrlTwo":"",
