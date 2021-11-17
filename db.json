@@ -2,7 +2,7 @@
   "questions":[
     {
       "id": 1,
-      "type": "multiple-choice",
+      "type": "multiple_choice",
       "imageUrl": "",
      "description": "What will be printed as a result of executing the code segment?",
      "choice-1": " 0 3 2 1 0 0 3 ",
